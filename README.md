@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mohansiva58
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @mohansivathota
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Mern stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : @mohansivathota@gmail.com
