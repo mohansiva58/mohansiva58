@@ -21,9 +21,9 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 ## 🧩 Projects
 
-- 🔬 [Medibot AI](https://www.medibot-ai.com/)  
+- 🔬 [House Website](https://house-website-sigma.vercel.app/)  
 - 🔐 [Nuerohub](https://signup-1499.web.app/)  
-- 🧒 [WonderKids Game](https://wonderkids.great-site.net/?i=1)  
+- 🧒 [Rag-reader]()  
 - 🍟 [Crave Finder](https://crave-finder.vercel.app/)
 
 ---
@@ -37,19 +37,16 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 ## 💻 Tech Stack
 
 ### 🌐 Web & App Technologies  
-![Web](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind)
+![Web](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,tailwind)
 
 ### 🗃️ Database Technologies  
-![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres)
+![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase)
 
 ### 🛠️ Tools & Platforms  
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode)
 
-### 🎨 Design & UI/UX  
-![Design](https://skillicons.dev/icons?i=figma,threejs)
-
 ### 🧠 Programming Languages  
-![Langs](https://skillicons.dev/icons?i=c,py,java,js,cpp)
+![Langs](https://skillicons.dev/icons?i=py,java,js)
 
 
 
