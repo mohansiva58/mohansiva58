@@ -15,7 +15,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 ---
 
 ## 🌐 Portfolio  
-🔗 [sujaybabu.vercel.app](https://sujaybabu.vercel.app)
+🔗 [portfolio](https://mohansiva-thota.vercel.app/)
 
 ---
 
