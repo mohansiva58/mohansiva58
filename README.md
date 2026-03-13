@@ -15,7 +15,7 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 ---
 
 ## 🌐 Portfolio  
-🔗 [portfolio](https://mohansiva-thota.vercel.app/)
+🔗 [portfolio](https://www.mohansiva.tech/)
 
 ---
 
