@@ -21,10 +21,10 @@ A passionate **Full-Stack Web Developer & Designer**, always exploring new techn
 
 ## 🧩 Projects
 
-- 🔬 [House Website](https://house-website-sigma.vercel.app/)  
-- 🔐 [Nuerohub](https://signup-1499.web.app/)  
-- 🧒 [Rag-reader]()  
-- 🍟 [Crave Finder](https://crave-finder.vercel.app/)
+- 🔬 [E-commerce](https://clothingbrand-nu.vercel.app/)  
+- 🔐 [Nuerohub](https://nueroempowerment.vercel.app/)  
+- 🧒 [Samagra](https://samagra-csd-csit.vercel.app/)  
+- 🍟 [AtluriEvents](https://atlurievents.in/)
 
 ---
 
