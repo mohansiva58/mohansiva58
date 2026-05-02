@@ -2,7 +2,7 @@
 
 A passionate **Full-Stack Web Developer & Designer**, always exploring new technologies to build innovative, robust, and scalable web & mobile applications.  
 🎓 Currently pursuing my **B.Tech at SRKR Engineering College**, specializing in **Computer Science & Design**.
-Passionate about innovation and entrepreneurship, aiming to launch a startup that leverages technology to solve real-world problems. Currently exploring ideas and building the necessary skills to turn vision into reality.
+
 ---
 
 ## 🚀 Know About Me!!
