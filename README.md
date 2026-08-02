@@ -192,29 +192,13 @@ src="https://github-profile-trophy.vercel.app/?username=mohansiva58&theme=algoli
 </p>
 
 ---
-## 📈 Contribution Activity
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=mohansiva58&theme=github-dark&hide_border=true"/>
-
-</p>
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/mohansiva58/mohansiva58/output/github-snake.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/mohansiva58/mohansiva58/output/github-snake-light.svg">
-
-<img src="https://raw.githubusercontent.com/mohansiva58/mohansiva58/output/github-snake.svg"/>
-
-</picture>
 
 </p>
 
@@ -248,7 +232,6 @@ srcset="https://raw.githubusercontent.com/mohansiva58/mohansiva58/output/github-
 
 <div align="center">
 
-### ⭐ "First, solve the problem. Then, write the code."
 
 Thanks for visiting my profile ❤️
 
