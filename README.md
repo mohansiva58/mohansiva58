@@ -183,24 +183,7 @@ src="https://github-profile-trophy.vercel.app/?username=mohansiva58&theme=algoli
 
 ---
 
-# 📊 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohansiva58&theme=github-dark"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=mohansiva58&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
