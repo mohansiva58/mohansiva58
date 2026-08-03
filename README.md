@@ -1,12 +1,12 @@
 <div align="center">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/mohansiva58/mohansiva58/main/assets/banner.svg?v=2">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/mohansiva58/mohansiva58/main/assets/banner-light.svg?v=2">
   <img src="https://raw.githubusercontent.com/mohansiva58/mohansiva58/main/assets/banner.svg?v=2" width="100%" alt="Banner"/>
-</picture>
+</picture> -->
 
 <br>
 
