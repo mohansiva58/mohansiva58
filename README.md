@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/mohansiva58/mohansiva58/main/assets/banner.svg?v=2" width="100%" alt="Banner"/>
 </picture> -->
 
-<br>
+<!-- <br>
 
 <img src="https://komarev.com/ghpvc/?username=mohansiva58&label=Profile+Views&color=dc2626&style=for-the-badge"/>
 
@@ -28,7 +28,7 @@
 
 </div> -->
 
----
+
 
 # 👋 Hi, I'm Mohan Siva Thota
 
