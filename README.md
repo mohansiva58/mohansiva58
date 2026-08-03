@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/GitHub-mohansiva58-black?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+</div> -->
 
 ---
 
