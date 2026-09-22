@@ -159,29 +159,7 @@ Bhimavaram, Andhra Pradesh, India
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=mohansiva58&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=mohansiva58&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansiva58&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=mohansiva58&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
 
 
 
